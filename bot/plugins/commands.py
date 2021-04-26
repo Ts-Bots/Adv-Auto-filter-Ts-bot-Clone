@@ -112,8 +112,6 @@ async def start(bot, update):
 async def help(bot, update):
     buttons = [[
         InlineKeyboardButton('⬇️ BACK', callback_data='start'),
-        InlineKeyboardButton('💡 HELP', callback_data='help')
-    ],[
         InlineKeyboardButton('🔐 CLOSE', callback_data='close')
     ]]
     
@@ -133,8 +131,6 @@ async def about(bot, update):
     
     buttons = [[
         InlineKeyboardButton('⬇️ BACK', callback_data='start'),
-        InlineKeyboardButton('💡 HELP', callback_data='help')
-    ],[
         InlineKeyboardButton('🔐 CLOSE', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
