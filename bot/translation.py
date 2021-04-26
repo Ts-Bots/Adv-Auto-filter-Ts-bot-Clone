@@ -8,9 +8,9 @@ class Translation(object):
 😅 Hai {}, 
 
 I am a filter bot with advanced features 
-currently working for {} 
+currently working for @{} 
 
-⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 {}
+⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 @{}
 """   
     
     HELP_TEXT = """
