@@ -1,7 +1,7 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot">
     <img src="https://img.shields.io/github/stars/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2?style=social">
 
   </a>
