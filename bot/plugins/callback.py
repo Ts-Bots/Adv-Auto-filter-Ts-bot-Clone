@@ -1692,7 +1692,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "close":
         await update.message.delete()
-        await update.message.reply_to_message.delete()
+        
 
 
 def time_formatter(seconds: float) -> str:
