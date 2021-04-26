@@ -30,6 +30,21 @@
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. From https://repl.it/@prgofficial/String-Gen",
             "value": ""
+        },
+        "BOT_NAME": {
+            "description": "Your bot's Name. Default will be Linker",
+            "value": "Linker",
+            "required": false
+        },
+        "GROUP_USERNAME": {
+            "description": "Your Group Username without '@'. Default will be Ts_bots",
+            "value": "Ts_bots", 
+            "required": false
+        },
+        "ADMIN_USERNAME": {
+            "description": "Your User Bane without '@'. Default will be Ts_bots",
+            "value": "Ts_Bots", 
+            "required": false
         }
     },
     "buildpacks": [
