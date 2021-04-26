@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot">
-    <img src="https://img.shields.io/github/stars/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2?style=social">
+    <img src="https://img.shields.io/github/stars/Ts-Bots/Adv-Auto-filter-Ts-bot?style=social">
 
   </a>
   
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot/fork">
+    <img src="https://img.shields.io/github/forks/Ts-Bots/Adv-Auto-filter-Ts-bot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -68,12 +68,12 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+<i>**[Watch Deploying Tutorial...](https://youtu.be/zum9AUlOgtQ)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -82,8 +82,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/blob/main
-cd Adv-Auto-Filter-Bot-ReMaster
+git clone https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot/tree/blob/main
+cd Adv-Auto-filter-Ts-bot
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join My [Telegram Channel](https://www.telegram.dog/Ts_bots) For Support/Assistance And Our [Channel](https://www.telegram.dog/Anylink_Movies) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
@@ -105,4 +105,5 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Credits
 
- - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
+ - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram) 
+ - Thanks To [@AlbertEinstein_TG](https://telegram.me/AlbertEinstein_TG) For His Source Code 
