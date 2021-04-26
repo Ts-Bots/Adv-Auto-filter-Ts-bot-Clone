@@ -1,12 +1,12 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot">
+  <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone">
     <img src="https://img.shields.io/github/stars/Ts-Bots/Adv-Auto-filter-Ts-bot?style=social">
 
   </a>
   
-  <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot/fork">
+  <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone/fork">
     <img src="https://img.shields.io/github/forks/Ts-Bots/Adv-Auto-filter-Ts-bot?label=Fork&style=social">
 
   </a>  
@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -82,8 +82,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot/tree/blob/main
-cd Adv-Auto-filter-Ts-bot
+git clone https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone/tree/blob/main
+cd Adv-Auto-filter-Ts-bot-Clone
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
