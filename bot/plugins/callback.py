@@ -1628,7 +1628,7 @@ async def cb_about(bot, update: CallbackQuery):
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await update.message.edit_text(
-        text, reply_markup=reply_markup, parse_mode="html, disable_web_page_preview=True"
+        text, reply_markup=reply_markup, parse_mode="html" , disable_web_page_preview=True
     )
 
 
