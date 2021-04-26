@@ -21,6 +21,12 @@ DB_URI = os.environ.get("DB_URI")
 
 USER_SESSION = os.environ.get("USER_SESSION")
 
+BOT_NAME = os.environ.get("BOT_NAME", "Linker")
+
+ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "Ts_bots")
+
+GROUP_USERNAME = os.environ.get("GROUP_USERNAME", "Ts_bots")
+
 VERIFY = {}
 
 logging.basicConfig(
