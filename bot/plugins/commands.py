@@ -120,7 +120,8 @@ async def help(bot, update):
         chat_id=update.chat.id,
         text=Translation.HELP_TEXT,
         reply_markup=reply_markup,
-        parse_mode="html"
+        parse_mode="html", 
+        disable_web_page_preview=True
     )
 
 
@@ -138,5 +139,5 @@ async def about(bot, update):
         text=Translation.ABOUT_TEXT.format(BOT_NAME),
         reply_markup=reply_markup,
         disable_web_page_preview=True,
-        parse_mode="html"
+        parse_mode="markdown"
     )
