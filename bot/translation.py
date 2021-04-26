@@ -62,7 +62,7 @@ currently working for @{}
 
 ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone)
 
-○ ᴄʀᴇᴀᴛᴏʀ : [Ts_bots](https://t.me/Ts_bots)
+○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_bots](https://t.me/Ts_bots)
 
 **ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
 
