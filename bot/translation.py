@@ -60,7 +60,7 @@ currently working for {}
 
 ○ ᴠᴇʀsɪᴏɴ : 1.0.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Ts-Bots/Adv-Auto-filter-Ts-Bots)
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone)
 
 ○ ᴄʀᴇᴀᴛᴏʀ : [Ts_bots](https://t.me/Ts_bots)
 
