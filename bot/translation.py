@@ -64,9 +64,7 @@ currently working for @{}
 
 ○ ᴄʀᴇᴀᴛᴏʀ : [Ts_bots](https://t.me/Ts_bots)
 
+**ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
+
 **[©ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛ](https://t.me/ts_bots)**
 """
-
-# ᴘᴍ
-# ᴀᴍ 
-
