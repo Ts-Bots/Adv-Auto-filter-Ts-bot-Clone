@@ -142,12 +142,8 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
 
-    title=query #.split(",")[0]
-    #year=query.split(",")[1] 
-    #lang=query.split(",")[2]
-    #joint_title=title + year + lang
 
-    text=f"**😃 𝐆𝐨𝐭 𝐢𝐭\n\nYour Query 👉 {title}\n\n[©️ ᴀɴʏʟɪɴᴋ ᴍᴏᴠɪᴇs](https://t.me/joinchat/KFle6Zyi5H0zNzNl)**"
+    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>"
         
     try:
         await update.message.edit(
