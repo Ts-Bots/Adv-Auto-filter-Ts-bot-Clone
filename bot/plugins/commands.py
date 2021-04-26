@@ -92,7 +92,8 @@ async def start(bot, update):
         InlineKeyboardButton('📫 SUPPORT', url='https://t.me/Ts_bots'),
         InlineKeyboardButton('📕 ABOUT', callback_data="about")
     ],[
-        InlineKeyboardButton('💡 HELP', callback_data="help")
+        InlineKeyboardButton('💡 HELP', callback_data="help"),
+        InlineKeyboardButton('🔐 CLOSE', callback_data='close')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
