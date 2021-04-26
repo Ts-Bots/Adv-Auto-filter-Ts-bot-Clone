@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone">
-    <img src="https://img.shields.io/github/stars/Ts-Bots/Adv-Auto-filter-Ts-bot?style=social">
+    <img src="https://img.shields.io/github/stars/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone?style=social">
 
   </a>
   
   <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone/fork">
-    <img src="https://img.shields.io/github/forks/Ts-Bots/Adv-Auto-filter-Ts-bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone?label=Fork&style=social">
 
   </a>  
 </p>
