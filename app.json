@@ -1,5 +1,5 @@
 {
-    "name": "Auto Filter Bot V2",
+    "name": "Linker-Clone",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
     "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
     "keywords": [
@@ -7,16 +7,16 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/AlbertEinsteinTG",
-    "repository": "https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/CrazyBotsz",
+    "website": "https://github.com/Ts-bots",
+    "repository": "https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot",
+    "success_url": "https://telegram.dog/Ts_bots",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @UseTGXBot",
+            "description": "Your APP ID From my.telegram.org",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @UseTGXBot",
+            "description": "Your API Hash From my.telegram.org",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -28,7 +28,7 @@
             "value": ""
         },
         "USER_SESSION": {
-            "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
+            "description": "A Pyrogram User Session String. From https://repl.it/@prgofficial/String-Gen",
             "value": ""
         }
     },
