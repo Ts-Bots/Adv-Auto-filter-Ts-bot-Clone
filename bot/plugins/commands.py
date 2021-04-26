@@ -101,7 +101,7 @@ async def start(bot, update):
     
     await bot.send_message(
         chat_id=update.chat.id,
-        text=Translation.START_TEXT.format(update.from_user.first_name, GROUP_NAME, ADMIN_USERNAME),
+        text=Translation.START_TEXT.format(update.from_user.first_name, GROUP_USERNAME, ADMIN_USERNAME),
         reply_markup=reply_markup,
         parse_mode="html"
     )
