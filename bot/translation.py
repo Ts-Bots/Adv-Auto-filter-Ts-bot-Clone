@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @Hillard_Har 
+# (c) @AlbertEinsteinTG | @Hillard_Har 
 
 class Translation(object):
     
-    START_TEXT = """😃 ʜᴀɪ {} ,
+    START_TEXT = """
+😅 Hai {}, 
 
-ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ <a href="https://t.me/Anylink_infinity_Movies">ᴀɴʏʟɪɴᴋ ɪɴғɪɴɪᴛʏ ᴍᴏᴠɪᴇs</a> ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs
+I am a filter bot with advanced features 
+currently working for {} 
 
-🔱 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 @Hillard_Har
-
+⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 {}
 """   
     
     HELP_TEXT = """
@@ -47,8 +48,9 @@ class Translation(object):
 <b><a href="https://t.me/ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
 """
     
-    ABOUT_TEXT = """📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
-\n○ ᴍʏ ɴᴀᴍᴇ : 𝙻𝚒𝚗𝚔𝚎𝚛
+    ABOUT_TEXT = """
+📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
+\n○ ᴍʏ ɴᴀᴍᴇ : {}
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
@@ -56,13 +58,14 @@ class Translation(object):
 
 ○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
 
-○ ᴠᴇʀsɪᴏɴ : 1.0.1
+○ ᴠᴇʀsɪᴏɴ : 1.0.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Ts-Bots/Adv-Auto-filter-Ts-Bots)
 
-○ ᴄʀᴇᴀᴛᴏʀ : [ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ](https://t.me/trackstudio) & [ʜɪʟʟᴀʀᴅ_ʜᴀʀ](https://t.me/Hillard_Har)
+○ ᴄʀᴇᴀᴛᴏʀ : [Ts_bots](https://t.me/Ts_bots)
 
-**ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 19-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 12:27 ᴘᴍ**"""
+**[©ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛ](https://t.me/ts_bots)**
+"""
 
 # ᴘᴍ
 # ᴀᴍ 
