@@ -5,7 +5,7 @@ import asyncio
 from pyrogram import Client, filters
 from pyrogram.errors import FloodWait, UserNotParticipant
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
-
+from bot.__init__ import ADMIN_USERNAME, GROUP_USERNAME, BOT_NAME
 from bot import start_uptime, Translation, VERIFY # pylint: disable=import-error
 from bot.plugins.auto_filter import ( # pylint: disable=import-error
     FIND, 
